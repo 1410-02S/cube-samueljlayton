@@ -1,6 +1,8 @@
 
 public class Rubiks {
 
+    //Godd start but is missinga lot of core features
+
  static String[][] cube = {
      {
      "r","r","r",
